@@ -1,0 +1,7 @@
+patient_name = input("What's your name? ")
+print("Hello ", patient_name)
+#birth_year = input("what's your birth year? ")
+#Your_age = 2022 - float(birth_year)
+#print(Your_age)
+#age = bool(input("your age? "))
+#print(age, type(age))
